@@ -1,0 +1,19 @@
+{
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "CAR"
+      },
+      {
+        "index": 2,
+        "name": "COLLIDERS"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 7,
+      "1": 5,
+      "2": 3
+    }
+  }
+}
